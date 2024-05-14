@@ -11,3 +11,6 @@ In this code, the predict_image function takes the path to an image file, prepro
 Please replace 'dataset/training_set' and 'dataset/test_set' with the paths to your actual datasets. The fit_generator function trains the model for a fixed number of epochs (iterations on a dataset). You can adjust the steps_per_epoch, epochs, and validation_steps parameters based on your dataset size and computational resources.
 
 Remember, this is a basic model and might not give high accuracy. For complex datasets, you might need a more complex model, data augmentation, or pre-trained models. Also, always remember to preprocess your images and labels correctly before feeding them into the model.
+
+
+Link For datasets : https://drive.google.com/drive/folders/1y2GL-MFbC50CxzdXBGjia416RsU3FOp-?usp=sharing
